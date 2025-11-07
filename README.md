@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola!
 
-<!--
-**Smartestbox/smartestbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soy Igor y actualmente estudio Desarrollo de Aplicaciones Web (DAW) en modalidad semipresencial dentro de la Formación Profesional.
+Aquí comparto proyectos, ejercicios y prácticas que realizo durante mi aprendizaje.**
 
-Here are some ideas to get you started:
+## Tecnologías que estoy aprendiendo:
+1. HTML5 y CSS3
+2. JavaScript
+3. Java (con NetBeans)
+4. MySQL y diseño de bases de datos
+5. Git y GitHub
+6. XML y JSON
+7. Sistemas informáticos y redes básicas
+8. Control de versiones y buenas prácticas de desarrollo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Por este enlace puedes ver mi portafolio](https://smartestbox.github.io/mi-portfolio/)
